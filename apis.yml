@@ -1,0 +1,23 @@
+aid: mahle
+url: https://raw.githubusercontent.com/api-evangelist/mahle/refs/heads/main/apis.yml
+name: MAHLE
+x-type: company
+description: >-
+  MAHLE is a German global Tier 1 automotive supplier headquartered in Stuttgart. MAHLE designs and manufactures thermal management, electrification, engine systems and components, filtration, and mechatronics for passenger cars, commercial vehicles, and off-highway equipment.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Automotive
+  - Tier 1 Supplier
+  - Thermal Management
+  - Engine Components
+  - Filtration
+created: '2026-05-06'
+modified: '2026-05-06'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.mahle.com/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
