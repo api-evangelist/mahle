@@ -26,6 +26,17 @@ No public APIs have been documented. MAHLE is a Tier 1 automotive supplier whose
 ## Common Properties
 
 - [Website](https://www.mahle.com/)
+- [Plans](plans/mahle-plans-pricing.yml) — API Commons Plans 0.1 (placeholder; no public pricing)
+- [RateLimits](rate-limits/mahle-rate-limits.yml) — API Commons Rate Limits 0.1 (placeholder; no public limits)
+- [FinOps](finops/mahle-finops.yml) — FOCUS-aligned FinOps Framework 1.0 (placeholder; no public billing surface)
+
+## Artifacts
+
+| Artifact | Path | Notes |
+|---|---|---|
+| Plans | `plans/mahle-plans-pricing.yml` | Contact-Sales placeholder; commercial terms negotiated per contract. |
+| Rate Limits | `rate-limits/mahle-rate-limits.yml` | Contract-scoped placeholder; no public throttling thresholds. |
+| FinOps | `finops/mahle-finops.yml` | FOCUS-aligned placeholder; invoices issued under contract terms. |
 
 ## Maintainers
 
