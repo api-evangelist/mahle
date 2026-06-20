@@ -4,7 +4,7 @@ name: MAHLE
 kind: company
 description: >-
   MAHLE is a German global Tier 1 automotive supplier headquartered in Stuttgart. MAHLE designs and manufactures thermal management, electrification, engine systems and components, filtration, and mechatronics for passenger cars, commercial vehicles, and off-highway equipment.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Automotive
   - Tier 1 Supplier
